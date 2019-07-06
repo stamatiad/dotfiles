@@ -1,0 +1,1 @@
+EnhancedDiff-0.3.vmb: call delete('/home/stefanos/.vim/plugin/EnhancedDiff.vim')|call delete('/home/stefanos/.vim/autoload/EnhancedDiff.vim')|call delete('/home/stefanos/.vim/doc/EnhancedDiff.txt')
